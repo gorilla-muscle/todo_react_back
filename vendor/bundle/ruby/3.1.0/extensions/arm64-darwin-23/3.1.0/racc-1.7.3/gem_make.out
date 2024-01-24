@@ -1,0 +1,16 @@
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/satonozomi/.rbenv/versions/3.1.4/bin/ruby -I /Users/satonozomi/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240124-26357-dckxwz sitelibdir\=./.gem.20240124-26357-dckxwz clean
+
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240124-26357-dckxwz sitelibdir\=./.gem.20240124-26357-dckxwz
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240124-26357-dckxwz sitelibdir\=./.gem.20240124-26357-dckxwz install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240124-26357-dckxwz/racc

@@ -1,0 +1,20 @@
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.17.1/ext/bootsnap
+/Users/satonozomi/.rbenv/versions/3.1.4/bin/ruby -I /Users/satonozomi/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240124-26357-dr2d92 sitelibdir\=./.gem.20240124-26357-dr2d92 clean
+
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240124-26357-dr2d92 sitelibdir\=./.gem.20240124-26357-dr2d92
+compiling bootsnap.c
+bootsnap.c:822:10: warning: unused variable 'contents' [-Wunused-variable]
+  char * contents = NULL;
+         ^
+1 warning generated.
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/satonozomi/workspace/Self_Study/todo_react/backend/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.17.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240124-26357-dr2d92 sitelibdir\=./.gem.20240124-26357-dr2d92 install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240124-26357-dr2d92/bootsnap
